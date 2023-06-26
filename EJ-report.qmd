@@ -1,0 +1,109 @@
+---
+title: "EJ Reproducibility Report"
+format: html
+editor: visual
+date: today
+date-format: long
+---
+
+
+
+![](banner.png){fig-align="top"}
+
+
+## Paper Identification
+
+
+| MS Number   | YYYY-LONG-ALPHANUMERIC   |
+|---------|----------|
+| Author(s)   | Author 1, Author 2    |
+| Paper Title | Title Title Title Title |
+
+## Folder Structure and `ReadMe`
+
+-   [ ] Folder structure is correct, i.e. it looks like
+
+    ```         
+    |- 1 Paper
+    |- 2 Appendices
+    |- 3 Replication package
+    |- 4 Confidential data not for publication
+    ```
+
+The ReadMe file is adequate and includes **all** of the following items:
+
+-   [ ] It is in PDF format.
+-   [ ] Description of the content of the replication package.
+-   [ ] Data availability statement (description of the origin of the data and how to obtain access to them)
+-   [ ] Precise instructions on how to run the code
+-   [ ] Indications on where to find the output saved/displayed.
+-   [ ] Software used (including software version + OS).
+-   [ ] All packages and libraries that need to be installed.
+-   [ ] Expected running time (even if it is a few seconds).
+-   [ ] Data citations.
+
+## Data Citations
+
+Are the data correctly cited:
+
+-   [ ] In the paper.
+-   [ ] In the `ReadMe`.
+-   [ ] Not applicable (the paper is not empirical).
+
+## Used Datasets
+
+*Check one of the mutually exclusive boxes at the first level. Then, check all applicable sub-boxes of that choice.*
+
+-   [ ] Empirical with available data.
+
+    <details>
+
+    <summary>Click for sub-boxes</summary>
+    -   [ ] All raw datasets are included (main text and appendices, including online), along with the cleaning and analysis codes.
+    -   [ ] A copy of all datasets in non-proprietary format (ASCII, csv,etc.) is included.
+    
+    </details>
+
+-   [ ] Empirical with simulated/synthetic data.
+
+    <details>
+    <summary>Click for sub-boxes</summary>
+
+    -   [ ] The simulated/synthetic data to produce all tables and figures in the paper is included.
+    -   [ ] A copy of all datasets in non-proprietary format (ASCII, csv,etc.) is included.
+    -   [ ] A data exemption at the time of first submission was granted (*to be ticked by the Data Editor*).
+    
+    </details>
+
+-   [ ] The paper only includes simulations.
+
+-   [ ] Experimental.
+
+    <details>
+
+    <summary>Click for sub-boxes</summary>
+
+    -   [ ] All raw datasets are included (main text and appendices, including online), along with the cleaning and analysis codes.
+    -   [ ] A copy of all datasets in non-proprietary format (ASCII, csv,etc.) is included.
+
+    Also, the following documents are included (if these files are part of the paper or of an appendix, the authors should have copied them again in a separate document included in the replication package): 
+        - [ ] A PDF copy of the IRB approval. 
+        - [ ] A PDF document outlining the design of the experiment, including information on the selection and eligibility of participants. 
+        - [ ] A PDF copy of the instructions given to participants in both original language and an English translation. 
+        - [ ] Raw data collected from the experiment, including a copy in non-proprietary format (ASCII, csv, etc.).
+        
+    </details>
+
+## Does it Run Through?
+
+-   [ ] Yes.
+-   [ ] No.
+
+*If no, please provide comments here*
+
+## Does it produce the results in the paper?
+
+-   [ ] Yes.
+-   [ ] No.
+
+*If no, please provide comments here*
