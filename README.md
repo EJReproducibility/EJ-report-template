@@ -1,5 +1,7 @@
 # RES Reproducibility Template Repository
 
+![](banner.png)
+
 > This repo is the template for reproducibility checks at the Royal Economic Society Journals.
 
 ## How to use this template
