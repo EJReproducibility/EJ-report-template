@@ -26,7 +26,7 @@ date-format: long
     |- 4 Confidential data not for publication
     ```
 
-The ReadMe file is adequate and includes **all** of the following items:
+The folder `3 Replication package` contains a `ReadMe` file, which is  adequate and includes **all** of the following items:
 
 -   [ ] It is in PDF format.
 -   [ ] Description of the content of the replication package.
