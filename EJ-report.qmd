@@ -1,6 +1,9 @@
 ---
 title: "EJ Reproducibility Report"
-format: html
+format: 
+    html: default
+    odt: default
+    docx: default
 editor: source
 date: today
 date-format: long
