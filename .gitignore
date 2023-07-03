@@ -4,3 +4,5 @@
 .Ruserdata
 *.html
 EJ-report_files
+
+/.quarto/

@@ -11,6 +11,8 @@ date-format: long
 
 ![](banner.png){fig-align="top"}
 
+
+
 ## Paper Identification
 
 | MS Number   | YYYY-LONG-ALPHANUMERIC  |
@@ -85,3 +87,12 @@ Are the data correctly cited:
 -   [ ] No.
 
 *If no, please provide comments here. Please be polite.*
+
+
+
+-------
+
+<!-- don't edit below this line please -->
+
+<div style="text-align: right"> EJ reporting template: `{{< var version >}}`
+ </div>
