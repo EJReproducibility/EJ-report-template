@@ -54,53 +54,34 @@ Are the data correctly cited:
 *Check one of the mutually exclusive boxes at the first level. Then, check all applicable sub-boxes of that choice.*
 
 -   [ ] Empirical with available data.
-
-    <details>
-
-    <summary>Click for sub-boxes</summary>
-
     -   [ ] All raw datasets are included (main text and appendices, including online), along with the cleaning and analysis codes.
     -   [ ] A copy of all datasets in non-proprietary format (ASCII, csv,etc.) is included.
-
-    </details>
-
 -   [ ] Empirical with simulated/synthetic data.
-
-    <details>
-
-    <summary>Click for sub-boxes</summary>
-
     -   [ ] The simulated/synthetic data to produce all tables and figures in the paper is included.
     -   [ ] A copy of all datasets in non-proprietary format (ASCII, csv,etc.) is included.
     -   [ ] A data exemption at the time of first submission was granted (*to be ticked by the Data Editor*).
-
-    </details>
-
 -   [ ] The paper only includes simulations.
-
 -   [ ] Experimental.
-
-    <details>
-
-    <summary>Click for sub-boxes</summary>
-
     -   [ ] All raw datasets are included (main text and appendices, including online), along with the cleaning and analysis codes.
     -   [ ] A copy of all datasets in non-proprietary format (ASCII, csv,etc.) is included.
 
-    Also, the following documents are included (if these files are part of the paper or of an appendix, the authors should have copied them again in a separate document included in the replication package): - \[ \] A PDF copy of the IRB approval. - \[ \] A PDF document outlining the design of the experiment, including information on the selection and eligibility of participants. - \[ \] A PDF copy of the instructions given to participants in both original language and an English translation. - \[ \] Raw data collected from the experiment, including a copy in non-proprietary format (ASCII, csv, etc.).
+    Also, the following documents are included (if these files are part of the paper or of an appendix, the authors should have copied them again in a separate document included in the replication package): 
+    - \[ \] A PDF copy of the IRB approval. 
+    - \[ \] A PDF document outlining the design of the experiment, including information on the selection and eligibility of participants. 
+    - \[ \] A PDF copy of the instructions given to participants in both original language and an English translation. 
+    - \[ \] Raw data collected from the experiment, including a copy in non-proprietary format (ASCII, csv, etc.).
 
-    </details>
 
 ## Does it Run Through?
 
 -   [ ] Yes.
 -   [ ] No.
 
-*If no, please provide comments here*
+*If no, please provide comments here. Please be polite.*
 
 ## Does it produce the results in the paper?
 
 -   [ ] Yes.
 -   [ ] No.
 
-*If no, please provide comments here*
+*If no, please provide comments here. Please be polite.*
