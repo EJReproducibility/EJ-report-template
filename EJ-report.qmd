@@ -24,11 +24,11 @@ date-format: long
 
 -   [ ] Folder structure is correct, i.e. it looks like
 
-    ```         
-    |- 1 Paper
-    |- 2 Appendices
-    |- 3 Replication package
-    |- 4 Confidential data not for publication
+    ```
+    ├── 1-paper
+    ├── 2-appendices
+    ├── 3-replication-package.zip
+    └── 4-confidential-data-not-for-publication.zip  (Optional)
     ```
 
 The folder `3 Replication package` contains a `ReadMe` file, which is  adequate and includes **all** of the following items:
