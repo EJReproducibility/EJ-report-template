@@ -31,7 +31,7 @@ date-format: long
     └── 4-confidential-data-not-for-publication.zip  (Optional)
     ```
 
-The folder `3 Replication package` contains a `ReadMe` file, which is  adequate and includes **all** of the following items:
+The folder `3-replication-package` contains a `ReadMe` file, which is  adequate and includes **all** of the following items:
 
 -   [ ] It is in PDF format.
 -   [ ] Description of the content of the replication package.
@@ -53,7 +53,7 @@ Are the data correctly cited:
 
 ## Used Datasets
 
-*Check one of the mutually exclusive boxes at the first level. Then, check all applicable sub-boxes of that choice.*
+*Check all applicable boxes.*
 
 -   [ ] Empirical with available data.
     -   [ ] All raw datasets are included (main text and appendices, including online), along with the cleaning and analysis codes.
@@ -79,14 +79,14 @@ Are the data correctly cited:
 -   [ ] Yes.
 -   [ ] No.
 
-*If no, please provide comments here. Please be polite.*
+*If no, please provide comments here.*
 
 ## Does it produce the results in the paper?
 
 -   [ ] Yes.
 -   [ ] No.
 
-*If no, please provide comments here. Please be polite.*
+*If no, please provide comments here.*
 
 
 
