@@ -18,9 +18,11 @@ date-format: long
 | MS Number   | YYYY-LONG-ALPHANUMERIC  |
 |-------------|-------------------------|
 | Author(s)   | Author 1, Author 2      |
-| Paper Title | Title Title Title Title |
+| Paper Title | Insert paper title here |
 
-## Folder Structure and `ReadMe`
+## Metadata Check
+
+### Folder Structure and `ReadMe`
 
 -   [ ] Folder structure is correct, i.e. it looks like
 
@@ -43,7 +45,7 @@ The folder `3-replication-package` contains a `ReadMe` file, which is  adequate 
 -   [ ] Expected running time (even if it is a few seconds).
 -   [ ] Data citations.
 
-## Data Citations
+### Data Citations
 
 Are the data correctly cited:
 
@@ -51,7 +53,7 @@ Are the data correctly cited:
 -   [ ] In the `ReadMe`.
 -   [ ] Not applicable (the paper is not empirical).
 
-## Used Datasets
+### Used Datasets
 
 *Check all applicable boxes.*
 
@@ -74,7 +76,16 @@ Are the data correctly cited:
     - \[ \] Raw data collected from the experiment, including a copy in non-proprietary format (ASCII, csv, etc.).
 
 
-## Does it Run Through?
+## Reproducibility Checks
+
+Replicator's computational setup:
+
+1. Operating System (e.g. _Windows 10_ or _Mac OS 13.4_ or _nuvolos_):
+2. CPU (e.g. _Apple M1 Pro_ or _Intel Core i7_):
+3. RAM (e.g. _16 GB_):
+4. Software version (e.g. _Stata 16 IC_ or _R 4.2.1_ or _Matlab 2023a_ etc):
+
+## Does the package run through?
 
 -   [ ] Yes.
 -   [ ] No.
@@ -86,7 +97,7 @@ Are the data correctly cited:
 -   [ ] Yes.
 -   [ ] No.
 
-*If no, please provide comments here.*
+*If no, please provide comments here. Inserting screenshots or textual output from the package next to expected output from the paper is helpful for authors, so please consider including this here.*
 
 
 
