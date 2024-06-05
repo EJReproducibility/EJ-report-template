@@ -38,6 +38,11 @@ The folder `3-replication-package` contains a `ReadMe` file, which is  adequate 
 -   [ ] It is in PDF format.
 -   [ ] Description of the content of the replication package.
 -   [ ] Data availability statement (description of the origin of the data and how to obtain access to them)
+-   [ ] A Statement about Rights: 
+        
+    > 1. I certify that the author(s) of the manuscript have legitimate access to and permission to use the data used in this manuscript.
+    > 2. I certify that the author(s) of the manuscript have documented permission to redistribute/publish the data contained within this replication package. Appropriate permission are documented in the LICENSE.txt file (if applicable).
+
 -   [ ] Precise instructions on how to run the code
 -   [ ] Indications on where to find the output saved/displayed.
 -   [ ] Software used (including software version + OS).
