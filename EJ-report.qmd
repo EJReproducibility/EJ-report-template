@@ -9,7 +9,7 @@ date: today
 date-format: long
 ---
 
-![](banner.png){fig-align="top"}
+![](img/banner.png){fig-align="top"}
 
 
 
