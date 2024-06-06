@@ -68,7 +68,7 @@ ls 3-replication-package  # check it out
 cd 3-replication-package
 git init
 
-git add .  # track entire package
+git add .  # track entire package with git
 git commit -m 'version R1 code initial commit'
 ```
 
@@ -99,7 +99,43 @@ copy and paste from stata, matlab, R console etc is fine
 
 We want a quick and reliable way to see changes to both code and data. There is `git` and a GUI solution.
 
-If you initated git version control in the first iteration, you can just unzip the next iteration, and move its content into `full-package`. This will overwrite old content, but changes will be visible to git. This would look like here:
+
+A simple GUI based solution is provided via [`KDiff3`](https://kdiff3.sourceforge.net/). This allows to compare the contents of two folders. You would copy the next iteration as `full-package-R2` into our working directory and then compare with `full-package` in `KDiff3`:
+
+```bash
+Oswald-123456/
+├── EJ-report-R1
+│   ├── EJ-report-template.Rproj
+│   ├── EJ-report.docx
+│   ├── EJ-report.odt
+│   ├── EJ-report.qmd
+│   ├── README.md  # you are actually looking at this file. :-)
+│   ├── _quarto.yml
+│   ├── _variables.yml
+│   └── banner.png
+└── full-package
+    ├── 1-paper
+    ├── 2-appendices
+    ├── 3-replication-package
+    │   ├── README.md
+    │   ├── code  
+    │   ├── data
+    │   └── output
+    └── 4-confidential-data-not-for-publication
+        └── iris.csv
+└── full-package-R2
+    ├── 1-paper
+    ├── 2-appendices
+    ├── 3-replication-package
+    │   ├── README.md
+    │   ├── code  
+    │   ├── data
+    │   └── output
+    └── 4-confidential-data-not-for-publication
+        └── iris.csv
+```
+
+If **and only if** you initated git version control in the first iteration, you can just unzip the next iteration, and move its content into `full-package`. This will overwrite old content, but changes will be visible to git. This would look like here:
 
 ![](img/R2-dragdrop.png)
 
@@ -122,7 +158,6 @@ index 6f7ff36..06fec34 100644
 ```
 
 
-A simple GUI based solution is provided via [`KDiff3`](https://kdiff3.sourceforge.net/). This allows to compare the contents of two folders.
 
 ### Meta
 
