@@ -157,7 +157,11 @@ index 6f7ff36..06fec34 100644
  end # module Oswald
 ```
 
+## Tools
 
+### How to deal with large data files?
+
+We often get compressed data files. On MacOS `.zip` files larger than 4GB may cause trouble. I recommend
 
 ### Meta
 

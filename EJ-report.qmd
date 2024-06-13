@@ -41,7 +41,7 @@ The folder `3-replication-package` contains a `ReadMe` file, which is  adequate 
 -   [ ] A Statement about Rights: 
         
     > 1. I certify that the author(s) of the manuscript have legitimate access to and permission to use the data used in this manuscript.
-    > 2. I certify that the author(s) of the manuscript have documented permission to redistribute/publish the data contained within this replication package. Appropriate permission are documented in the LICENSE.txt file (if applicable).
+    > 2. I certify that the author(s) of the manuscript have documented permission to redistribute/publish the data contained within this replication package. Appropriate permissions are documented in the LICENSE.txt file (if applicable).
 
 -   [ ] Precise instructions on how to run the code
 -   [ ] Indications on where to find the output saved/displayed.
