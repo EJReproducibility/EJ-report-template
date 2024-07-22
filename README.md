@@ -163,6 +163,14 @@ index 6f7ff36..06fec34 100644
 
 We often get compressed data files. On MacOS `.zip` files larger than 4GB may cause trouble. I recommend
 
+```
+# mac terminal
+brew update
+brew install p7zip
+# then
+7za x 4-confidential-data-not-for-publication.zip
+```
+
 ### Meta
 
 one creates the `.docx` and `.odt` on the quarto command line with
